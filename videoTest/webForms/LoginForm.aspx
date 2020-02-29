@@ -21,14 +21,14 @@
             <div class="wrap-login100 p-t-190 p-b-30">
                 <form class="login100-form validate-form" runat="server">
                     <div class="login100-form-avatar">
-                        <img src="../Resources/images/LoginIconn1.png" alt="AVATAR" />
+                        <img src="../Resources/images/LoginIconn1.png" alt="Login" />
                     </div>
 
                     <span class="login100-form-title p-t-20 p-b-45">Login
                     </span>
 
                     <div class="wrap-input100 validate-input m-b-10" data-validate="Username is required">
-                        
+
                         <asp:TextBox ID="username" runat="server" placeholder="Username" CssClass="input100"></asp:TextBox>
                         <span class="focus-input100"></span>
                         <span class="symbol-input100">
@@ -37,7 +37,7 @@
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-10" data-validate="Password is required">
-                        
+
                         <asp:TextBox ID="pass" CssClass="input100" placeholder="Password" runat="server" TextMode="Password"></asp:TextBox>
                         <span class="focus-input100"></span>
                         <span class="symbol-input100">
@@ -67,7 +67,7 @@
     </div>
     <script src="../Resources/vendor/jquery/jquery-3.2.1.min.js"></script>
     <script src="../Resources/vendor/bootstrap/js/popper.js"></script>
-	<script src="../Scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
     <script src="../Resources/vendor/select2/select2.min.js"></script>
     <script src="../Resources/js/main.js"></script>
 </body>

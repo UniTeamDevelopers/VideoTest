@@ -140,6 +140,7 @@
     <Content Include="Resources\images\icons\icon-google.png" />
     <Content Include="Resources\images\img-01.jpg" />
     <Content Include="Resources\images\LoginIconn1.png" />
+    <Content Include="Resources\images\signupIcon.png" />
     <Content Include="Resources\js\main.js" />
     <Content Include="Resources\vendor\animate\animate.css" />
     <Content Include="Resources\vendor\bootstrap\css\bootstrap-grid.css" />
